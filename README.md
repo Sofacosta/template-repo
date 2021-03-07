@@ -35,8 +35,6 @@ OR
  
 * Open your terminal and navigate to the folder where you would like to save this project
 * Clone this repository in your terminal: $ git clone
-* Go to the top level of the repository: $ cd programming-language-suggester
-* Open index.html into your browser: $ open index.html
 ## Known Bugs
 * No known bugs
 ## Notes
