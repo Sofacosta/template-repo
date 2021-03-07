@@ -7,18 +7,28 @@ This is my indepentent project to showcase the lesson learned last week: Arrays 
 ## Specs
  
 ```
-Describe: beepBop()
-Test: "It should return an array of numbers inputted by the user including the number 0"
-Expect(beepBoop(08234)).toEqual(["08234"]);
+
  ```
  
 ## Technologies Used
-* HTML
-* Javascript
+* HTML5 
+* Javascript ES6
 * CSS
-* JQuery
+* css-loader 3.2.0
+* JQuery 3.5.1
+* Babel/core 7.6.4
+* Babel/plugin-transform-modules-commonjs 7.6.0
+* Bootstrap 4.5.0
+* clean-webpack-plugin 3.0.0
+* eslint 6.3.0
+* eslint-loader 3.0.0
+* Jest 24.9.0
+* Node Package Manager 6.14.9
+* webpack 4.39.3
+
+
 ## Set up / Installation requirements
-* Download a .zip copy of this repository:LINK TO GITHUB by clicking the green "code" button. 
+* Download a .zip copy of this repository: LINK TO GITHUB by clicking the green "code" button. 
 * Launch the index.html file into your browser
  
 OR
