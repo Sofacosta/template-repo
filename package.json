@@ -1,8 +1,8 @@
 {
-  "name": "shape-tracker",
+  "name": "document",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "npm run build; webpack-dev-server --open --mode development",
@@ -23,7 +23,7 @@
     "jest": "^24.9.0",
     "style-loader": "^1.0.0",
     "webpack": "4.39.3",
-    "webpack-cli": "3.3.8",
+    "webpack-cli": "^3.3.8",
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
