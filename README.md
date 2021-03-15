@@ -1,16 +1,16 @@
 # TITLE OF PROJECT 
-#### Independent project #3 for Epicodus
-#### Project initiated: 01-22-2021
-#### By Sofia Acosta
+## Name of project ( For example: Independent project #3 for Epicodus)
+### Project initiated: 00-00-0000
+### Project modified: 00-00-0000
+### By Sofia Acosta
 ## Project Description
-This is my indepentent project to showcase the lesson learned last week: Arrays and Loops. It is an application that will take a number from a user and will return a range of numbers and statements using arrays and loops. A user should be able to enter a new number and see different results over and over again.
-## Specs
+This is a detailed description of the project. A summary of valuable information for the users and developers. 
+## Preview 
+* Link to GitHub Pages. 
+
+## Technologies Used
  
 ```
-
- ```
- 
-## Technologies Used
 * HTML5 
 * Javascript ES6
 * CSS
@@ -26,21 +26,23 @@ This is my indepentent project to showcase the lesson learned last week: Arrays 
 * Node Package Manager 6.14.9
 * webpack 4.39.3
 
+ ```
 
 ## Set up / Installation requirements
-* Download a .zip copy of this repository: LINK TO GITHUB by clicking the green "code" button. 
-* Launch the index.html file into your browser
+* Open the terminal in your machine
+* Navigate to the directory where you would like to save this project 
+* Clone the project with $ git clone LINK TO GITHUB
+* Recreate this project's environment with $ npm install
+* Create a file to store variables you want to keep secret $ touch .env  
+* Create production environment with terminal command $ npm run build     
  
-OR
- 
-* Open your terminal and navigate to the folder where you would like to save this project
-* Clone this repository in your terminal: $ git clone
+
 ## Known Bugs
 * No known bugs
 ## Notes
-* 
+* Any reference that I used in building this project 
 ## License
 * [MIT](https://choosealicense.com/licenses/mit)
 * Copyright 2021 Sofia Acosta
 ## Contact
-Sofia Acosta sofiaacostarascon@gmail.com
+* Sofia Acosta sofiaacostarascon@gmail.com
