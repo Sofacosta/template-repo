@@ -1,4 +1,4 @@
-# TITLE OF PROJECT 
+# TITLE OF PROJECT - THIS REPO IS AN ENVIRONMENT TEMPLATE FOR FUTURE PROJECTS.THIS IS NOT COMPLETE OR PORTFOLIO READY STATE. 
 ## Name of project ( For example: Independent project #3 for Epicodus)
 ### Project initiated: 00-00-0000
 ### Project modified: 00-00-0000
@@ -34,7 +34,9 @@ This is a detailed description of the project. A summary of valuable information
 * Clone the project with $ git clone LINK TO GITHUB
 * Recreate this project's environment with $ npm install
 * Create a file to store variables you want to keep secret $ touch .env  
-* Create production environment with terminal command $ npm run build     
+* Create your own API key and store it in .env : API_KEY=YOUR KEY HERE!
+* Create production environment with terminal command $ npm run build  
+* Start local server with npm run start    
  
 
 ## Known Bugs
